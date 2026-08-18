@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "05a18335-c2b2-4c67-98b8-66f0597b8f11"
+      }
+    },
+    "owner": "thebassplayers-team"
   }
 }
